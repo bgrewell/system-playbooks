@@ -1,0 +1,4 @@
+---
+collections:
+  - name: petermosmans.customize-gnome
+    version: '0.2.11'
